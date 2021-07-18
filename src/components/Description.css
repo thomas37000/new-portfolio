@@ -1,0 +1,19 @@
+.mainDesc {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 1vmin);
+  background-color: #282c34;
+  color: white;
+  padding: 3rem 0;
+}
+
+.description {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+.smallDesc {
+  width: 700px;
+}
